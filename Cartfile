@@ -1,0 +1,2 @@
+github "Alamofire/Alamofire" ~> 4.2
+github "daltoniam/Starscream" ~> 3.0
